@@ -1,0 +1,1 @@
+# Models\n\nOllama models are installed and managed locally with Ollama; model files are not stored in this repository.\n

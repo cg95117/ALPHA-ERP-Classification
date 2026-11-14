@@ -1,0 +1,8 @@
+pandas>=3.0.5
+openpyxl>=3.1.5
+numpy==2.5.3
+langchain-core==1.6.3
+langchain-ollama==1.1.0
+langchain-chroma==1.1.0
+chromadb==1.5.9
+krippendorff>=0.9.0
