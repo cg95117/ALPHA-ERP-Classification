@@ -1,6 +1,8 @@
 # ALPHA – ERP Technology Classification
 
-Python project for assigning ERP technology categories to text excerpts with an LLM and a ChromaDB retrieval index. It also includes an inter-rater agreement analysis using exact agreement, Jaccard distance and Krippendorff's alpha.
+Python project for assigning ERP technology categories to text excerpts with an LLM and a ChromaDB retrieval index. 
+It also includes an inter-rater agreement analysis using exact agreement, Jaccard distance and Krippendorff's alpha.
+This project does not fullfill user experience considerations and serves only as the MVP for an Offline LLM-Based Approach for Automated Text Classification 
 
 ## Project structure
 
